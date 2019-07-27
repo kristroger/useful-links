@@ -4,3 +4,7 @@
 	<br>
 	<br>
 </div>
+
+<div align="center">
+    <b>Follow my <a href="www.linkedin.com/in/edmond-christian-kouadio">Linkedin page</a> for more info about me.</b>
+</div>
