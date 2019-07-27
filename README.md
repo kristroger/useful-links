@@ -15,6 +15,12 @@
 - [Books](#books)
 - [Miscellaneous](#miscellaneous)
 
+## Front-End Development
+
+- [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript) - JavaScript is a high-level, object-based, dynamic scripting language popular as a tool for making webpages interactive.
+
+- [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/) - Simple explanation to React
+
 ## Books
 
 - [The Pragmatic Programmer: From Journeyman to Master](http://93.174.95.29/_ads/D01ECC9809ED9B5D9A955913031C7511)
