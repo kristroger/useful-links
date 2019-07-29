@@ -50,3 +50,5 @@
 - [30 Things I Wish I Knew When I Started Programming](https://medium.com/better-programming/30-short-things-i-wish-i-knew-all-this-when-i-started-programming-b17667e3df0c)
 
 - [Make your Medium stories listenable as podcasts](https://play.ht/extension/?utm_source=medium&utm_medium=b17667e3df0c&utm_campaign=powered_by_play_ht)
+
+- [Communications Solutions Across Africa](https://africastalking.com/)
