@@ -51,4 +51,4 @@
 
 - [Make your Medium stories listenable as podcasts](https://play.ht/extension/?utm_source=medium&utm_medium=b17667e3df0c&utm_campaign=powered_by_play_ht)
 
-- [Communications Solutions Across Africa](https://africastalking.com/)
+- [Africas talking](https://africastalking.com/) - Powering Communications Solutions Across Africa
