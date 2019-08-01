@@ -14,8 +14,11 @@
 - [Front-End Development](#front-end-development)
 - [Books](#books)
 - [USSD](#USSD)
-- [Miscellaneous](#miscellaneous)
 - [SMS](#sms)
+- [Artificial intelligence](#artificial-intelligence)
+- [Miscellaneous](#miscellaneous)
+- [Data science](#data-science)
+
 
 ## Front-End Development
 
@@ -51,7 +54,10 @@
 
 - [USSD](https://medium.com/search?q=Ussd) - USSD articles on medium
 
-- [Qu’est-ce que l’USSD et pourquoi est-ce un moteur de développement économique en Afrique ?](https://medium.com/banking-on-mobile-in-africa/quest-ce-que-l-ussd-et-pourquoi-est-ce-un-moteur-de-développement-économique-en-afrique-62f0b0e51d4c) - 
+- [Qu’est-ce que l’USSD et pourquoi est-ce un moteur de développement économique en Afrique ?](https://medium.com/banking-on-mobile-in-africa/quest-ce-que-l-ussd-et-pourquoi-est-ce-un-moteur-de-développement-économique-en-afrique-62f0b0e51d4c)
+
+- [Unstructured Supplementary Services Data (USSD) Applications](https://mkisan.gov.in/ussdapplication.aspx)
+
 
 ## SMS
 
@@ -60,6 +66,16 @@
 - [Africas talking](https://africastalking.com/) - Powering Communications Solutions Across Africa
 
 - [Open source technologies for SMS](https://medium.com/@iMitwe/open-source-technologies-running-u-report-b316104da17a)
+
+
+## Artificial intelligence
+
+- [Healthcare AI](https://healthcare.ai) - Machine Learning in Healthcare: Now for Everyone
+
+## Data science
+
+- [Data science cheat sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/README.md)
+
 
 ## Miscellaneous
 
