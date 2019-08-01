@@ -13,7 +13,9 @@
 
 - [Front-End Development](#front-end-development)
 - [Books](#books)
+- [USSD](#USSD)
 - [Miscellaneous](#miscellaneous)
+- [SMS](#sms)
 
 ## Front-End Development
 
@@ -43,6 +45,22 @@
 
 - [Soft Skills: The software developer's life manual](http://93.174.95.29/_ads/7CAA09CD44CAAF68A1ADC5F6C5A46F33)
 
+## USSD
+
+- [Build an ‘SMS center’ with Python , Kannel and a GSM modem](https://hackernoon.com/build-an-sms-center-with-python-kannel-and-a-gsm-modem-9c0d29560d82)
+
+- [USSD](https://medium.com/search?q=Ussd) - USSD articles on medium
+
+- [Qu’est-ce que l’USSD et pourquoi est-ce un moteur de développement économique en Afrique ?](https://medium.com/banking-on-mobile-in-africa/quest-ce-que-l-ussd-et-pourquoi-est-ce-un-moteur-de-développement-économique-en-afrique-62f0b0e51d4c) - 
+
+## SMS
+
+- [Rapid pro](https://app.rapidpro.io) - Visually build nationally scalable mobile applications from anywhere in the world.
+
+- [Africas talking](https://africastalking.com/) - Powering Communications Solutions Across Africa
+
+- [Open source technologies for SMS](https://medium.com/@iMitwe/open-source-technologies-running-u-report-b316104da17a)
+
 ## Miscellaneous
 
 - [10 Classic Books Every Serious Developer Should Read](https://dzone.com/articles/must-read-book-list-for-programmers?source=post_page---------------------------)
@@ -51,4 +69,4 @@
 
 - [Make your Medium stories listenable as podcasts](https://play.ht/extension/?utm_source=medium&utm_medium=b17667e3df0c&utm_campaign=powered_by_play_ht)
 
-- [Africas talking](https://africastalking.com/) - Powering Communications Solutions Across Africa
+
