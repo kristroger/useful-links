@@ -16,8 +16,10 @@
 - [USSD](#USSD)
 - [SMS](#sms)
 - [Artificial intelligence](#artificial-intelligence)
-- [Miscellaneous](#miscellaneous)
 - [Data science](#data-science)
+- [Miscellaneous](#miscellaneous)
+- [API](#api)
+
 
 
 ## Front-End Development
@@ -76,6 +78,10 @@
 
 - [Data science cheat sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/README.md)
 
+
+##API
+
+- [Tutorials for API](https://www.programmableweb.com)
 
 ## Miscellaneous
 
