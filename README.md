@@ -91,4 +91,6 @@
 
 - [Make your Medium stories listenable as podcasts](https://play.ht/extension/?utm_source=medium&utm_medium=b17667e3df0c&utm_campaign=powered_by_play_ht)
 
+- [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+
 
