@@ -79,7 +79,7 @@
 - [Data science cheat sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/README.md)
 
 
-##API
+## API
 
 - [Tutorials for API](https://www.programmableweb.com)
 
