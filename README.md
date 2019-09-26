@@ -82,6 +82,7 @@
 ## API
 
 - [Tutorials for API](https://www.programmableweb.com)
+- [Learn how to build API with oracle](https://apiary.io/how-to-build-api#architectural-style)
 
 ## Miscellaneous
 
