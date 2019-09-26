@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -12,3 +13,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+=======
+theme: jekyll-theme-hacker
+>>>>>>> b7fe56499ebca6ac11dba16e0bbac511406d719c
